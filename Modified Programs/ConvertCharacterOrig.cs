@@ -32,6 +32,9 @@ namespace casechange
             // variable is an Upper Case letter and will capitalize it. Otherwise, the
             // else if statement is executed and will determine that the variable is
             // instead a Lower Case letter and print out a lower case variable.
+           
+           // The values are based on ASCII values in which A-Z are 65-90 while
+           // a-z are 97-122.
             if (a >= 65 && a <= 90)
             {
 
