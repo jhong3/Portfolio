@@ -3,7 +3,7 @@ using System.IO;
 using System.Diagnostics;
 
 
-namespace CSC395_Module02_HW02
+namespace ReverseSorters
 {
     class Program
     {
