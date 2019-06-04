@@ -1,9 +1,20 @@
-﻿using System;
+/* 
+   Summary: The program applies a modified versions of Bubble, Selection,
+            Merge, and Quick Sort algorithms. The Main() method has two
+            functions: 1. Sorts a given array of strings in reverse. 2.
+            Stores text of a .txt file in an array and creates 4 distinct
+            arrays, and sorts each file with a specific algorithm
+            and outputs the runtime in milliseconds.
+   Date: 5/25/2019
+   Author: John Hong
+*/   
+
+using System;
 using System.IO;
 using System.Diagnostics;
 
 
-namespace CSC395_Module02_HW02
+namespace ReverseSorters
 {
     class Program
     {
