@@ -1,0 +1,13 @@
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Release\SimpleRPG.exe.config
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Release\SimpleRPG.exe
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Release\SimpleRPG.pdb
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Release\GameEngine.dll
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Release\GameEngine.pdb
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.csprojAssemblyReference.cache
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.Properties.Resources.resources
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.SimpleRPG.resources
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.csproj.GenerateResource.cache
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.csproj.CopyComplete
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.exe
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Release\SimpleRPG.pdb

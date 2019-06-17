@@ -1,0 +1,6 @@
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\bin\Debug\GameEngine.dll
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.dll
+C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.pdb
