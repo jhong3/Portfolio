@@ -3,3 +3,5 @@
 Machine Learning is a set of algorithms that analyze a set of data and learn from that data to make informed decisions.
 These algorithms are modeled after the human brain, i.e. have an artificial neural network with algorithms designed
 to recognize patterns and output predictions. ML is divided into 3 categories: Supervised, Unsupervised, and Reinforcement Learning.
+
+The program inside the Machine Learning folder demonstrates Supervised Learning.
