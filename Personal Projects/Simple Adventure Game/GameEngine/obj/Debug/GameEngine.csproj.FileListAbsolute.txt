@@ -4,3 +4,9 @@ C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngin
 C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
 C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.dll
 C:\Users\Gamja\Documents\Visual Studio 2017\Games\GameEngine\obj\Debug\GameEngine.pdb
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\GameEngine\bin\Debug\GameEngine.dll
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\GameEngine\obj\Debug\GameEngine.dll
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\GameEngine\obj\Debug\GameEngine.pdb

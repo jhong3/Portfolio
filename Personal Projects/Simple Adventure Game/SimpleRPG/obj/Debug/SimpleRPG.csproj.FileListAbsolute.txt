@@ -11,3 +11,16 @@ C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Debug\SimpleRPG.
 C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Debug\GameEngine.dll
 C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\bin\Debug\GameEngine.pdb
 C:\Users\Gamja\Documents\Visual Studio 2017\Games\SimpleRPG\obj\Debug\SimpleRPG.csproj.CopyComplete
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\bin\Debug\SimpleRPG.exe.config
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\bin\Debug\SimpleRPG.exe
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\bin\Debug\SimpleRPG.pdb
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\bin\Debug\GameEngine.dll
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\bin\Debug\GameEngine.pdb
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.csprojAssemblyReference.cache
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.Properties.Resources.resources
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.SimpleRPG.resources
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.csproj.GenerateResource.cache
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.csproj.CopyComplete
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.exe
+C:\Users\Gamja\Documents\Visual Studio 2019\Repos\Portfolio\Personal Projects\Simple Adventure Game\SimpleRPG\obj\Debug\SimpleRPG.pdb
